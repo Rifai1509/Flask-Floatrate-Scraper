@@ -1,0 +1,4 @@
+{
+  "eur":{"code":"EUR","nue":"978","name":"Euro","rate":0.9124,"date":"Wed,GMT","inverseRate":121},
+  "gbp":{"code":"GBP","noe":"826","name":"U.K. Pound Sterling","rate":0.794,"date":"WT","inverseRate":58}
+}
